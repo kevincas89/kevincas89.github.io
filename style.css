@@ -1,0 +1,61 @@
+.contenedor{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+
+.invitacion{
+    position: relative;
+    background-color: aquamarine;
+    height: 590px;
+    width: 350px;
+    right: -36%;
+    border-radius: 5%;
+    
+}
+
+.tamaño_de_imagen{
+    height: 300px;
+    width: 350px;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}
+
+.contenedor_texto{
+text-align: center;
+
+}
+
+.contenedor_josecarlo{
+    
+    position: relative;
+    right: -10%;
+    width: 80%;
+    top: 2%;
+}
+
+.estilojosecarlo{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+}
+
+#nombreUsuario{
+    position: relative;
+    top: -68px;
+    right: -23%;
+}
+
+#fecha{
+    position: relative;
+    top: -81px;
+    right: -28%;
+}
+
+#boton{
+
+    position: relative;
+    width: 17%;
+    right: -80%;
+    top: -145px;
+}
